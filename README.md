@@ -1,5 +1,8 @@
 # Vendor-Management-System-Oracle-sql-developer
 Designed and developed a normalized relational database and PHP-based web application for managing supplier records, products, purchase orders, contracts, and payment workflows. Implemented stored procedures, triggers, constraints, and transactional queries to enforce data integrity and ensure accurate, reliable vendor and transaction management.
+<img width="1853" height="963" alt="image" src="https://github.com/user-attachments/assets/00d64a56-352a-46c5-8e42-50f0f37bd049" />
+<img width="1847" height="888" alt="image" src="https://github.com/user-attachments/assets/f81a521a-e8d5-47f5-9d2c-99e1a0e327a4" />
+<img width="1810" height="870" alt="image" src="https://github.com/user-attachments/assets/591a3165-db2b-4fdd-91aa-3a3205a86f04" />
 
 
 1. Check PDB status
