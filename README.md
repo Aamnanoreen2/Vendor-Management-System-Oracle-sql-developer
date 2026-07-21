@@ -68,3 +68,12 @@ sqlplus student1/pass123@//localhost:1521/ORCLPDB
 sqlplus student1/pass123@//localhost:1521/ORCLPDB
 
 sqlplus student1/pass123@localhost:1521/ORCLPDB
+
+
+for schema within oracle sql developer 
+
+Go to File
+ → Data Modeler
+ → Import
+ → Data Dictionary
+Right click diagram → Layout → Auto Layout
