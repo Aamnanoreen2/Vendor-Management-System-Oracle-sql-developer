@@ -57,6 +57,7 @@ CDB = ✅ already open
 PDB (ORCLPDB) = ❌ not open → this is your problem
 Fix = ALTER PLUGGABLE DATABASE ORCLPDB OPEN;
 
+<img width="1716" height="926" alt="image" src="https://github.com/user-attachments/assets/db03a69f-197e-4e76-9c7c-8effb50d9df9" />
 
 
 sqlplus student1/pass123@//localhost:1521/ORCLPDB
